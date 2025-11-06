@@ -4,20 +4,22 @@
     "$className": "DataModel",
 
     "ReplicatedStorage": {
-      "Shared": {
-        "$path": "src/shared"
+      "Mouse2": {
+        "$path": "src/Mouse2",
+        "Classes":{
+            "$path": "src/classes"
+        },
+        "Utilities": {
+          "$path": "src/utilities"
+        }
       }
     },
 
-    "ServerScriptService": {
-      "Server": {
-        "$path": "src/server"
-      }
-    },
+    "ServerScriptService": {},
 
     "StarterPlayer": {
       "StarterPlayerScripts": {
-        "Client": {
+        "Mouse2Client": {
           "$path": "src/client"
         }
       }
