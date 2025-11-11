@@ -1,5 +1,5 @@
 [package]
-name = "cris-2003/mouse2"
+name = "cris-main/mouse2"
 version = "0.1.0"
 description = "A replacement for Roblox mouse with some useful features like Smooth Shiftlock, MouseTrail Effect, and more."
 registry = "https://github.com/UpliftGames/wally-index"
